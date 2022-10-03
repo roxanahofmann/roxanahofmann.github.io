@@ -6,7 +6,7 @@ permalink: /contact
 
 # Get in touch?
 
-Feel free to [email](mailto:R.Hofmann@ed.ac.uk) or message me on either [twitter](https://twitter.com/roxanahofmann/) or [linkedin](https://linkedin.com/in/roxana-hofmann-a0b135222/)! Looking forward to hearing from you!
+Feel free to [email](mailto:R.Hofmann@ed.ac.uk) or message me on either [twitter](https://twitter.com/roxanahofmann/) or [linkedin](https://linkedin.com/in/roxana-hofmann-a0b135222/). Looking forward to hearing from you!
 
 # Find me?
 
