@@ -1,7 +1,7 @@
 ---
-title: /home
+title: /about
 layout: home
-permalink: /home
+permalink: /about
 ---
 
 # Hi!
