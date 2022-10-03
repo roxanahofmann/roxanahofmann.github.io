@@ -1,7 +1,7 @@
 title: 'My own website'
 description: ""
-baseurl: "https://roxanahofmann.github.io"
-url: ""
+baseurl: ""
+url: "https://roxanahofmann.github.io"
 
 header_pages:
   - index.md
