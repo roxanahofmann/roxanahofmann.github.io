@@ -6,6 +6,7 @@ url: "https://roxanahofmann.github.io"
 header_pages:
   - index.md
   - about.md
+  - peter.md
   - contact.md
 
 style: light 
