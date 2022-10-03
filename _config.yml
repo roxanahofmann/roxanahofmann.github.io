@@ -1,6 +1,6 @@
 title: 'roxanahofmann.github.io'
 description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
-baseurl: ""
+baseurl: "https://roxanahofmann.github.io"
 url: "https://roxanahofmann.github.io"
 
 header_pages:
