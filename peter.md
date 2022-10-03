@@ -1,7 +1,7 @@
 ---
-title: /CV
+title: /cv
 layout: page
-permalink: /CV
+permalink: /cv
 ---
 
 # CV
