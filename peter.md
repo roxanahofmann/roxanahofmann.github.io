@@ -6,4 +6,4 @@ permalink: /cv
 
 # CV
 
-[poster](/CV_RH.pdf)
+[cv](/CV_RH.pdf)
